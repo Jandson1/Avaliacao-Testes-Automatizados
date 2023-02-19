@@ -28,8 +28,13 @@ Os requisitos da avaliação foram os seguintes:
 
 ## Screenshots
 
+Exemplo de um dos testes aplicados:
+
 ![image](https://user-images.githubusercontent.com/107883675/219909484-0303bc36-99b1-4152-aaca-eb69e6cf7e40.png)
 
+Coverage(Cobertura dos testes):
+
+![image](https://user-images.githubusercontent.com/107883675/219909672-ac270082-cca5-4438-ac10-e87f6425d82d.png)
 
 ## Melhorias
 
